@@ -4,11 +4,12 @@
 Abstracts
 =================
 
+The submitted abstracts for the 2018 Graduate Colloquium are below 
 
 
-Posters
-++++++++++++++++++++++++++++++++++++++
-`Jonas Kintner <file:../01Abstracts/kintnerJ/index.html>`_ , `pdf <file:../01Abstracts/kintnerJ/kintner.pdf>`_
+ .. toctree::
+  :maxdepth: 2
+  :titlesonly:
 
-Talks
-++++++++++++++++++++++++++++++++++++++
+   Jonas Kintner<./kintnerJ/index.txt>
+
